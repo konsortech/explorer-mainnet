@@ -1,0 +1,19 @@
+{
+    "chain_name": "planq",
+    "api": ["https://mainnet-planq-api.konsortech.xyz"],
+    "rpc": ["https://mainnet-planq-rpc.konsortech.xyz"],
+    "snapshot_provider": "a3b8955aa523285d0aed51c7bfaf19eb20264ef5@mainnet-planq.konsortech.xyz:10656",
+    "sdk_version": "0.46.3",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "plq",
+    "logo": "/logos/planq.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "aplanq",
+        "symbol": "planq",
+        "exponent": "18",
+        "coingecko_id": "planq",
+        "logo": "/logos/planq.png"
+    }]
+}

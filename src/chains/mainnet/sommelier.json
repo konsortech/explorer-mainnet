@@ -1,0 +1,19 @@
+{
+    "chain_name": "sommelier",
+    "coingecko": "sommelier",
+    "api": ["https://mainnet-sommelier-api.konsortech.xyz"],
+    "rpc": ["https://mainnet-sommelier-rpc.konsortech.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.44.5",
+    "coin_type": "370",
+    "min_tx_fee": "8000",
+    "addr_prefix": "somm",
+    "logo": "/logos/sommelier.png",
+    "assets": [{
+        "base": "usomm",
+        "symbol": "SOMM",
+        "exponent": "6",
+        "coingecko_id": "sommelier", 
+        "logo": "/logos/sommelier.png"
+    }]
+  }

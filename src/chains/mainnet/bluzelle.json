@@ -1,0 +1,19 @@
+{
+    "chain_name": "bluzelle",
+    "api": ["https://mainnet-bluzelle-api.konsortech.xyz"],
+    "rpc": ["https://mainnet-bluzelle-rpc.konsortech.xyz"],
+    "snapshot_provider": "485ddd819bb13d4c1eb21e0aa46810e3c1f9d7b1@mainnet-bluzelle.konsortech.xyz",
+    "sdk_version": "0.44.3",
+    "coin_type": "118",
+    "min_tx_fee": "80000",
+    "addr_prefix": "bluzelle",
+    "logo": "/logos/bluzelle.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "ubnt",
+        "symbol": "bnt",
+        "exponent": "6",
+        "coingecko_id": "bluzelle",
+        "logo": "/logos/bluzelle.jpg"
+    }]
+}

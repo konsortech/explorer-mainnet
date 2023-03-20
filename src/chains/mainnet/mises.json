@@ -1,0 +1,20 @@
+{
+    "chain_name": "mises",
+    "api": ["https://mainnet-mises-api.konsortech.xyz"],
+    "rpc": ["https://mainnet-misesa-rpc.konsortech.xyz"],
+    "snapshot_provider": "aa33a396fcde81b9826df913e40600e4c2cade1f@mainnet-mises.konsortech.xyz:26656",
+    "sdk_version": "v0.44.6",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "addr_prefix": "mis",
+    "logo": "/logos/mises.jpg",
+    "assets": [
+      {
+        "base": "umis",
+        "symbol": "MIS",
+        "exponent": "6",
+        "coingecko_id": "mises",
+        "logo": "/logos/mises.jpg"
+      }
+    ]
+  }

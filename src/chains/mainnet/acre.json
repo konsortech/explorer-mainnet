@@ -1,0 +1,20 @@
+{
+    "chain_name": "acre",
+    "coingecko": "arable-protocol",
+    "api": ["https://mainnet-acre-api.konsortech.xyz/"],
+    "rpc": ["https://mainnet-acre-rpc.konsortech.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.10",
+    "coin_type": "60",
+    "min_tx_fee": "7500",
+    "addr_prefix": "acre",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "logo": "/logos/acre.jpg",
+    "assets": [{
+        "base": "aacre",
+        "symbol": "acre",
+        "exponent": "18",
+        "coingecko_id": "arable-protocol",
+        "logo": "/logos/acre.jpg"
+    }]
+}
