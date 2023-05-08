@@ -1,0 +1,17 @@
+{
+    "chain_name": "UPTICK",
+    "api": ["https://mainnet-uptick-api.konsortech.xyz","https://rest.uptick.network"],
+    "rpc": ["https://mainnet-uptick-rpc.konsortech.xyz"],
+    "sdk_version": "v0.46.0",
+    "coin_type": "60",
+    "min_tx_fee": "200",
+    "addr_prefix": "uptick",
+    "logo": "/logos/uptick.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "auptick",
+        "symbol": "UPTICK",
+        "exponent": "18",
+        "logo": "/logos/uptick.png"
+    }]
+}

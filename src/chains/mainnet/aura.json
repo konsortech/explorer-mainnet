@@ -10,6 +10,7 @@
         "base": "uaura",
         "symbol": "AURA",
         "exponent": 6,
+        "coingecko_id": "aura-network",
         "logo": "/logos/aura.png"
     }]
 }

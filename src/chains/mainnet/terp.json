@@ -1,0 +1,17 @@
+{
+    "chain_name": "TERP",
+    "api": ["https://mainnet-terp-api.konsortech.xyz"],
+    "rpc": ["https://mainnet-terp-rpc.konsortech.xyz"],
+    "sdk_version": "v0.47.1",
+    "coin_type": "60",
+    "min_tx_fee": "200",
+    "addr_prefix": "terp",
+    "logo": "/logos/terp.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "uterp",
+        "symbol": "TERP",
+        "exponent": "6",
+        "logo": "/logos/terp.png"
+    }]
+}
