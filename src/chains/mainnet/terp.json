@@ -2,7 +2,7 @@
     "chain_name": "TERP",
     "api": ["https://mainnet-terp-api.konsortech.xyz"],
     "rpc": ["https://mainnet-terp-rpc.konsortech.xyz"],
-    "sdk_version": "v0.47.1",
+    "sdk_version": "v0.47.5",
     "coin_type": "60",
     "min_tx_fee": "200",
     "addr_prefix": "terp",

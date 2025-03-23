@@ -1,0 +1,18 @@
+{
+    "chain_name": "SELFCHAIN",
+    "coingecko": "self-chain",
+    "api": ["https://mainnet-selfchain-api.konsortech.xyz"],
+    "rpc": ["https://mainnet-selfchain-rpc.konsortech.xyz"],
+    "sdk_version": "0.47.10",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "self",
+    "logo": "/logos/selfchain.jpg",
+    "assets": [{
+        "base": "uslf",
+        "symbol": "SLF",
+        "exponent": "6",
+        "coingecko_id": "self-chain",
+        "logo": "/logos/selfchain.jpg"
+    }]
+}

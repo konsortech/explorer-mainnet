@@ -1,10 +1,10 @@
 {
     "chain_name": "bitcanna",
-    "coingecko": "bitcanna", 
-    "api": ["https://mainnet-bitcanna-api.konsortech.xyz"], 
-    "rpc": ["https://mainnet-bitcanna-rpc.konsortech.xyz"],
-    "snapshot_provider": "5a048cab1d183de5c465c56b29a16fd93a8bf9bd@mainnet-bitcanna.konsortech.xyz:26656",
-    "sdk_version": "0.45.10",
+    "coingecko": "bitcanna",
+    "api": ["https://bitcanna-api.polkachu.com","https://mainnet-bitcanna-api.konsortech.xyz"],
+    "rpc": ["https://bitcanna-rpc.polkachu.com","https://mainnet-bitcanna-rpc.konsortech.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.9",
     "coin_type": "118",
     "min_tx_fee": "420",
     "assets": [{

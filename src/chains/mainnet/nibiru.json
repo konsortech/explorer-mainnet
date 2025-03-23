@@ -1,0 +1,18 @@
+{
+    "chain_name": "NIBIRU",
+    "coingecko" : "nibiru",
+    "api": ["https://nibiru-api.polkachu.com","https://mainnet-nibiru-api.konsortech.xyz"],
+    "rpc": ["https://nibiru-rpc.polkachu.com","https://mainnet-nibiru-rpc.konsortech.xyz"],
+    "sdk_version": "0.47.10",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "nibi",
+    "logo": "/logos/nibiru.jpg",
+    "assets": [{
+        "base": "unibi",
+        "symbol": "NIBI",
+        "exponent": "6",
+        "coingecko_id" : "nibiru",
+        "logo": "/logos/nibiru.jpg"
+    }]
+}

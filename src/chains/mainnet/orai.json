@@ -1,9 +1,9 @@
 {
     "chain_name": "Oraichain",
-    "api": ["https://mainnet-orai-api.konsortech.xyz"],
-    "rpc": ["https://mainnet-orai-rpc.konsortech.xyz"],
+    "api": ["https://mainnet-orai-api.konsortech.xyz","https://lcd.orai.io"],
+    "rpc": ["https://mainnet-orai-rpc.konsortech.xyz","https://rpc.orai.io"],
     "snapshot_provider": "",
-    "sdk_version": "v0.42.11",
+    "sdk_version": "0.50.5",
     "coin_type": "118",
     "min_tx_fee": "3000",
     "addr_prefix": "orai",

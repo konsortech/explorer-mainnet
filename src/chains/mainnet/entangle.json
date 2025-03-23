@@ -1,0 +1,20 @@
+{
+    "chain_name": "entangle",
+    "coingecko": "entangle",
+    "api": ["https://mainnet-entangle-api.konsortech.xyz","https://entangle.api.nodex.one","https://api.entangle.indonode.net"],
+    "rpc": ["https://mainnet-entangle-rpc.konsortech.xyz","https://entangle.rpc.nodex.one","https://rpc.entangle.indonode.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.10",
+    "coin_type": "60",
+    "min_tx_fee": "500000",
+    "addr_prefix": "ent",
+    "logo": "/logos/entangle.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "aNGL",
+        "symbol": "NGL",
+        "exponent": "18",
+        "coingecko_id": "entangle",
+        "logo": "/logos/entangle.jpg"
+    }]
+}

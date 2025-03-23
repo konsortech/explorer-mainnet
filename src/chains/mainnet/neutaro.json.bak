@@ -1,0 +1,18 @@
+{
+    "chain_name": "NEUTARO",
+    "coingecko" : "neutaro",
+    "api": ["https://mainnet-neutaro-api.konsortech.xyz"],
+    "rpc": ["https://mainnet-neutaro-rpc.konsortech.xyz"],
+    "sdk_version": "0.45.6",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "neutaro",
+    "logo": "/logos/neutaro.png",
+    "assets": [{
+        "base": "uneutaro",
+        "symbol": "NEUTARO",
+        "exponent": 6,
+        "coingecko_id": "neutaro",
+        "logo": "/logos/neutaro.png"
+    }]
+}

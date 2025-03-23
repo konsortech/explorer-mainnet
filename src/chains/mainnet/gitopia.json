@@ -1,18 +1,19 @@
 {
     "chain_name": "GITOPIA",
-    "coingecko": "",
-    "api": ["https://mainnet-gitopia-api.konsortech.xyz"],
-    "rpc": ["https://mainnet-gitopia-rpc.konsortech.xyz"],
-    "sdk_version": "v0.46.12",
+    "coingecko": "gitopia",
+    "api": ["https://gitopia-api.polkachu.com","https://mainnet-gitopia-api.konsortech.xyz"],
+    "rpc": ["https://gitopia-rpc.polkachu.com","https://mainnet-gitopia-rpc.konsortech.xyz"],
+    "sdk_version": "v0.46.13",
     "coin_type": "118",
     "min_tx_fee": "3000",
     "addr_prefix": "gitopia",
     "logo": "/logos/gitopia.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
         "base": "ulore",
         "symbol": "LORE",
         "exponent": "6",
-        "coingecko_id": "",
+        "coingecko_id": "gitopia",
         "logo": "/logos/gitopia.png"
     }]
 }
